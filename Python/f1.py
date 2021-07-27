@@ -1,4 +1,4 @@
-a=10
-b=20
-c=1+b
-print(c)
+a=3.14
+b=2
+c=(a*b)*2
+print('area of square',c)
